@@ -6,19 +6,19 @@
 
 - 🚀 Studying with #Rocketseat
 - 🚘 This is an application where you can rent a car. I'm using an API to fetch the cars and the rentals, GET, POST and PUT.
-is based on a web app delevoper in the NLW from Rocketseat. 
+is based on an app Rocketseat Ignite. 
 
 - 💾 I am current work at Trustly as a Client Support Analyst
 - All my projects are available at [GitHub](https://github.com/auadmendes)
 
 
 - This project was made with <b>React Native - TypeScript - Native Base</b> and <b>Expo</b>,
-- <b>native Base<b>
-- <b>Firebase<b>
-- <b>Google Auth<b>
-- <b>Apple Auth<b>
-- <b>AsyncStorage<b>
-- <b>Modalize<b> and many other technologies.
+- <b>Styled Components<b>
+- <b>Axios<b>
+- <b>Date-fns<b>
+- <b>Calendars<b>
+- <b>React Native Navigation<b>
+- <b>SVG Transformer<b> and many other technologies.
 - Download it and follow the steps.
 
 - <h4> Install the dependences </h4>
@@ -28,6 +28,8 @@ is based on a web app delevoper in the NLW from Rocketseat.
 - <h4> Start Project </h4>
 
 > expo start
+  
+> Start the API with *yarn api*
 
 - You can find the [Figma project](https://www.figma.com/file/4ojyGi2mGuQaGK0sUHMAqB/RentX-Ignite?node-id=22%3A583) here.
 
