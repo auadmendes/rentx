@@ -1,5 +1,5 @@
 <h1 align="left">
-  Rentx ... updating ...
+  Rentx.
 </h1>
 <p align="left"> Hi, I'm Luciano Horta 🖖 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=auadmendes&color=yellow" alt="Profile Views" /> </p>
